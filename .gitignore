@@ -178,3 +178,4 @@ cython_debug/
 *.png
 *.h5ad
 .pybiomart.sqlite
+.*
